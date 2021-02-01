@@ -1,5 +1,5 @@
 # Unit 1 Assignment *Flixter*
-**Flixter** is an android app that
+**Flixter** is an android app that shows a list of movies to the user  showing them a picture , description and title.
 
 Submitted by: **Ulysis Llanes**
 
@@ -20,6 +20,7 @@ Here's a walkthrough of implemented user stories:
 
 ### *Portrait*
 <img src='flix1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ### *Landscape*
 <img src='flix2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
