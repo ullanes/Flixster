@@ -18,7 +18,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+*Portrait*
 <img src='flix1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+*Landscape*
+<img src='flix2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## License
