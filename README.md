@@ -8,11 +8,17 @@ Time spent: **4** hours spent in total
 ## User Stories
 
 The following **required** functionality is completed:
+* [x] User can **view a  list of movies  with description, title and image**
 
+The following **optional** features are implemented:
+* [x] User can **view the app in different perspective with the landscape and portrait view**
+* [x] Improve the **styling and coloring**
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+<img src='flix1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## License
